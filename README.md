@@ -40,7 +40,8 @@ Status: Em andamento
 
 ## 🌍 Idiomas
 - **Português:** Nativo  
-- **Inglês:** Básico/intermediário (em aprendizado)
+- **Inglês:** Noções básicas de leitura e escrita. Ainda não sou fluente.
+
 
 ---
 
