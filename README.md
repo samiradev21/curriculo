@@ -40,7 +40,7 @@ Status: Em andamento
 
 ## 🌍 Idiomas
 - **Português:** Nativo  
-- **Inglês:** Noções básicas de leitura e escrita. Ainda não sou fluente.
+- **Inglês:** Noções 
 
 
 ---
@@ -83,9 +83,8 @@ Status: Ongoing
 
 ---
 
-## 🌍 Idiomas | Languages
-- **Português | Portuguese:** Nativo | Native
-- **Inglês | English:** Noções básicas de leitura e escrita. Ainda não sou fluente.  
-  Basic reading and writing skills. Not fluent yet.
+# 🌍 Idiomas | Languages
+- **Português | Portuguese:** Nativo | Native  
+- **Inglês | English:** Noções | Basic knowledge
 
 
