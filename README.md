@@ -1,4 +1,5 @@
-# 💼 Samira Lis Souza Silva – Desenvolvedora Web Iniciante | Junior Web Developer
+# 💼 Samira Lis Souza Silva – Desenvolvedora Web Iniciante | Entry-Level Web Developer
+
 
 ## 🇧🇷 Sobre Mim
 
